@@ -1,0 +1,13 @@
+{
+  "name": "AceClanbot",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "AceClanbot.py",
+  "scripts": {
+    "start": "node AceClanbot.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
